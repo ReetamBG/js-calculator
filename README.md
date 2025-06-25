@@ -15,4 +15,4 @@ Just open the `index.html` file in any modern browser.
 ## To Improve
 - Add keyboard input support
 - Replace `eval()` with a safer expression parser
-- Add more complex operations
+- Add more complex 2operations
